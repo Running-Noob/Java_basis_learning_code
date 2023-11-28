@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/f/chapter14/collection/Iterator_.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/f/chapter15/junit_/JUnit_.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/f/chapter18/properties_/Properties_.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/f/chapter18/reader_/BufferedReader_.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/f/chapter19/tcpsocket_/StreamUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/f/tankgamestage03/Shot.java" charset="GBK" />
+  </component>
+</project>

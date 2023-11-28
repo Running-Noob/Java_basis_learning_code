@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a29204f9-bdb3-4934-afcd-a76429b7ae4e" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/libraries/c3p0_0_9_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/libraries/commons_dbutils_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/libraries/druid_1_1_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/libraries/druid_1_2_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/libraries/mchange_commons_java_0_2_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/libraries/mysql_connector_java_5_1_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/QQClient.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqclient/service/ClientConnServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqclient/service/FileClientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqclient/service/ManageClientConnServerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqclient/service/MessageClientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqclient/service/UserClientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqclient/view/QQView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqcommon/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqcommon/MessageType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqcommon/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQClient/src/com/f/qqutils/StreamUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/QQServer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/src/com/f/qqcommon/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/src/com/f/qqcommon/MessageType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/src/com/f/qqcommon/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/src/com/f/qqframe/QQFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/src/com/f/qqserver/service/ManageServerConnClientThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/src/com/f/qqserver/service/QQServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/src/com/f/qqserver/service/SendNewsToAllService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/QQServer/src/com/f/qqserver/service/ServerConnClientThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/cat.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/data.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/default.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/druid.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/hello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/hi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/tankgameRecord.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/file/铃.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/GiveChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/CodeBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/CodeBlockDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/StaticCodeBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/StaticMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/TestMainParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/VisitStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/abstract_/AA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/abstract_/Abstract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/abstract_/AbstractDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/abstract_/BB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/abstract_/Template.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/abstract_/TemplateDesignMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/final_/Final01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/final_/FinalDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/innerclass/AnonymousInnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/innerclass/AnonymousInnerClassExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/innerclass/AnonymousInnerClass_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/innerclass/LocalInnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/innerclass/MemberInnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/innerclass/StaticInnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/interface_/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/interface_/ExtendsVsInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/interface_/Interface01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/interface_/InterfaceDetail01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/interface_/InterfacePolyParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/interface_/InterfacePolyPass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/singleMode/SingleTon01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter10/singleMode/SingleTon02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter11/annotation_/Override_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter11/enum_/EnumDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter11/enum_/EnumMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter11/enum_/Enumeration01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter11/enum_/Enumeration02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter12/customexception_/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter12/exception_/ClassCastException_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter12/exception_/Exception_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter12/exception_/NumberFormatException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter12/throws_/Throws01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter12/try_/TryCatchDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter12/try_/TryCatchDetail2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter12/try_/TryCatchDetail3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/ArraysMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/BigDecimal_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/BigInteger_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/Calendar_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/CharacterMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/ComparableExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/ComparatorExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/Date_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/Integer01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/Integer02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/IntegerMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/LocalDateTimeMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/LocalDateTime_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/MathMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/String01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/String02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/StringAndStringBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/StringBufferMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/StringMethod01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/StringMethod02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/StringMethod03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter13/SystemMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/collection/CollectionMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/collection/Collection_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/collection/Iterator_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/collections/Collections_Modify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/collections/Collections_Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/collections/Collections_Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/list/LinkedList_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/list/ListMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/list/List_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/list/Vector_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/map/HashMapSourceCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/map/HashTable01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/map/Map01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/map/MapMethod01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/map/MapTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/map/TreeMap01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/set/EmployeeExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/set/HashSetExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/set/HashSetSourceCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/set/LinkedHashSet01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/set/SetMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter14/set/TreeSet01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter15/customgeneric/CustomGenericInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter15/customgeneric/CustomGenericMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter15/customgeneric/CustomGeneric_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter15/generic/Generic01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter15/generic/GenericDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter15/generic/GenericExtends.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter15/generic/GenericExtends2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/daemonthread/DaemonThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/sellticket/SellTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/sellticket/SellTicket02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/sync/DeadLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/sync/SellTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/sync/SellTicket02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/sync/WaitExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/threadexit/ThreadExit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/threadmethod/ThreadMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/threadmethod/ThreadMethod02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/threadstate/ThreadState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/threaduse/ThreadUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter17/threaduse/ThreadUse02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/file/CreateFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/file/Directoty_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/file/FileInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/inputstream_/FileInputStream01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/inputstream_/FileInputStream02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/inputstream_/ObjectInputStream_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/outputstream_/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/outputstream_/FileCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/outputstream_/FileCopy02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/outputstream_/FileOutputStream01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/outputstream_/ObjectOutputStream_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/print_/PrintStream_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/print_/PrintWriter_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/properties_/Properties_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/reader_/BufferedReader_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/reader_/FileReader_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/standard_/InputAndOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/transformation_/InputStreamReader_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/transformation_/OutputStreamWriter_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/writer_/BufferedWriter_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter18/writer_/FileWriter_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/inetaddress_/InetAddress_API.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/FileDownloadServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/FileUploadClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/MusicDownloadClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/MusicUploadServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/SocketClient01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/SocketClient02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/SocketClient03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/SocketServer01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/SocketServer02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/SocketServer03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/tcpsocket_/StreamUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/udpsocket_/UDPReceiverA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter19/udpsocket_/UDPSenderB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/class_/Class01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/class_/GetClassConstructorInfo_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/class_/GetClassFieldInfo_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/class_/GetClassMethodInfo_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/class_/GetClass_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/classload/ClassLoad_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/reflection/Reflection01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/reflection/ReflectionAccessMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/reflection/ReflectionAccessProperty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter20/reflection/ReflectionCreateInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/dao_/dao/AccountDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/dao_/dao/BasicDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/dao_/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/dao_/test/TestDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/dao_/utils/JDBCUtilsByDruid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/Jdbc01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/Jdbc02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/JdbcConn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/batch/Batch_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/datasource/C3P0_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/datasource/Druid_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/preparedstatement_/PreparedStatement_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/resultset_/ResultSet_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/transaction/Transaction_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/utils/ApDBUtils_Use_DML.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/utils/ApDBUtils_Use_Select.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/utils/JDBCUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/utils/JDBCUtilsByDruid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/utils/JDBCUtilsByDruid_Use.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/chapter21/jdbc/utils/JDBCUtils_Use.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/houserent/HouseRentApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/houserent/domain/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/houserent/service/HouseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/houserent/view/HouseView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/DrawCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/event/BallMove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame01/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame01/MyPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame01/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame01/TankDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame01/TankGame01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame01/TankType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame02/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame02/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame02/MyPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame02/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame02/TankDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame02/TankGame02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage01/tankgame02/TankType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/MyPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/Shot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/ShotDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/TankDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/TankGame03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame03/TankType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/Bomb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/MyPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/Shot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/ShotDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/TankDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/TankGame04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame04/TankType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/Bomb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/MyPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/Shot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/ShotDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/TankDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/TankGame05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage02/tankgame05/TankType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/Bomb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/MyPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/Recorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/Shot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/ShotDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/TankDirect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/TankGame06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/src/com/f/tankgamestage03/TankType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/javaedu/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java project/out/production/Desktop/c3p0-config.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Tvve48d7YcLuBkO9vfVFxQFY7K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/1/Code Project/java-project/Java project/javaedu"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Code Project\java-project\Java project\mhl\src\com\f\mhl\dao" />
+      <recent name="C:\Users\1\Code Project\java-project\Java project\mhl\file" />
+      <recent name="C:\Users\1\Code Project\java-project\Java project\mhl\src\com\f\mhl\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.MHLView">
+    <configuration name="MHLView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.f.mhl.view.MHLView" />
+      <module name="mhl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f.mhl.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.f.mhl.Test" />
+      <module name="mhl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f.mhl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MHLView" />
+        <item itemvalue="应用程序.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a29204f9-bdb3-4934-afcd-a76429b7ae4e" name="变更" comment="" />
+      <created>1691936461743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691936461743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

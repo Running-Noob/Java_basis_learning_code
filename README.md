@@ -1,1 +1,3 @@
-# Java_basis_learning_code
+# Java basis learning code
+
+- Java基础学习的代码，chapter10及之后...
